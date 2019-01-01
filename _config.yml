@@ -107,7 +107,7 @@ author:
   name             : "jn.park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am dream.."
-  location         : "Somewhere"
+  location         : "서울시 서초구"
   email            :
   links:
     - label: "Email"
